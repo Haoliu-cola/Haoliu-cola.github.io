@@ -55,9 +55,20 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected works</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <!-- Personal Section -->
+          <section id="personal">
+              <h2>Personal</h2>
+              <ul>
+                  <li>I'm from Jilin, China.</li>
+                  <li>Roguelike Game Lover.</li>
+                  <!-- Add more list items as needed -->
+              </ul>
+          </section>
+
 
           <!-- Social -->
           {%- if page.social %}
