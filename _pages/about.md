@@ -10,6 +10,7 @@ profile:
   image: hl.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: liuhao @ wustl.edu</p>
     <p>Office: Mckelvey Hall 1020</p>
     <p>Saint Louis, MO</p>
 
