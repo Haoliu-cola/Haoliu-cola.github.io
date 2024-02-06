@@ -15,7 +15,7 @@
             zoomable=false
             alt=entry.preview -%}
           {%- endif -%}
-        {%- elsif entry.abbr -%}
+        {%- if entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
