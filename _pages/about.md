@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a fifth year Ph.D. candidate at Washington University in St. Louis.  I'm fortunately advised by Dr. Yixin Chen. Prior to joining WashU, I obtained my bachelor's degree in Mathematics from Beijing Normal University. My research primarily focuses on addressing few-shot and zero-shot challenges in graph and tabular domains. Additionally, I have a keen interest in applying these to real-world clinical problems.
 
-My recent interest is to design a foundation model for graph data. Please check our recent work here: [OneForAll](https://arxiv.org/abs/2310.00149). 
+My recent interest is to design a graph foundation model leveraging LLMs. Please check our recent work here: [OneForAll](https://arxiv.org/abs/2310.00149). 
 
 **I am actively seeking a summer internship for 2024. Happy to chat about potential opportunities and experiences!**
 
