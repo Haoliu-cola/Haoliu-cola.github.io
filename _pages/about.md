@@ -20,9 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a fifth year Ph.D. candidate at Washington University in St. Louis.  I'm fortunately advised by Dr. Yixin Chen. Prior to joining WashU, I obtained my bachelor's degree in Mathematics from Beijing Normal University. My research primarily focuses on addressing few-shot and zero-shot challenges in graph and tabular domains. Additionally, I have a keen interest in applying these to real-world clinical problems. Please check out my resume here: [Resume](/assets/pdf/Resume_of_Hao_Liu.pdf).
+I'm a fifth year Ph.D. candidate at Washington University in St. Louis.  I'm fortunately advised by Dr. [Yixin Chen](https://www.cse.wustl.edu/~yixin.chen/). Prior to joining WashU, I obtained my bachelor's degree in Mathematics from Beijing Normal University. My research primarily focuses on addressing few-shot and zero-shot challenges in graph and tabular domains. Additionally, I have a keen interest in applying these to real-world clinical problems. Please check out my resume here: [Resume](/assets/pdf/Resume_of_Hao_Liu.pdf).
 
-My recent interest is to design a graph foundation model leveraging LLMs. Please check our recent work here: [OneForAll](https://arxiv.org/abs/2310.00149). 
+My recent interest is to design a graph foundation model leveraging LLMs. [OneForAll](https://arxiv.org/abs/2310.00149) enables a single GNN to work on classification tasks across various datasets and task-levels. [GOFA](https://arxiv.org/pdf/2407.09709) introduces a generative graph foundation model that combines GNN and LLM layers for large-scale pretraining through graph-level next-token prediction.
+
 
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
